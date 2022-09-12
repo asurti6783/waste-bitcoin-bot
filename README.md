@@ -1,4 +1,4 @@
-## This is a Simple Bitcoin Notification bot for telegram, 
+## This is a Simple Bitcoin Notification bot for telegram
 
 Extract the bot chat_ID via the following 
 `https://api.telegram.org/<API-TOKEN>/getUpdates` in the response you will see the bot chat_id
