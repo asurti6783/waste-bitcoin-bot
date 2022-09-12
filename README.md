@@ -8,3 +8,8 @@ We can use the bot in cron job, right now I am using the following cron job
 ```bash
 0 */8 * * * python3 /root/waste-bitcoin-bot/notify.py
 ```
+Every 2 hours:
+
+```bash
+0 */2 * * * python3 /root/waste-bitcoin-bot/notify.py
+```
